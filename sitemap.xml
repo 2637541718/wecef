@@ -236,7 +236,28 @@
 
   
   <url>
+    <loc>http://www.wecef.com/tags/%E5%90%8C%E5%9F%8E/</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wecef.com/tags/%E8%81%8A%E5%A4%A9/</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.wecef.com/tags/%E7%BA%A6%E4%BC%9A/</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wecef.com/tags/%E5%90%8C%E5%9F%8E%E7%BA%A6%E4%BC%9A/</loc>
     <lastmod>2022-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -285,34 +306,27 @@
   </url>
   
   <url>
-    <loc>http://www.wecef.com/tags/%E5%90%8C%E5%9F%8E%E7%BA%A6%E4%BC%9A/</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.wecef.com/tags/%E9%99%84%E8%BF%91%E7%BA%A6%E4%BC%9A/</loc>
     <lastmod>2022-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://www.wecef.com/tags/%E5%90%8C%E5%9F%8E/</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.wecef.com/tags/%E8%81%8A%E5%A4%A9/</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
+  
+  <url>
+    <loc>http://www.wecef.com/categories/%E5%90%8C%E5%9F%8E%E7%BA%A6%E7%88%B1/</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.wecef.com/categories/%E5%85%B6%E5%AE%83/</loc>
+    <lastmod>2022-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://www.wecef.com/categories/%E7%BA%A6%E4%BC%9A/</loc>
@@ -330,20 +344,6 @@
   
   <url>
     <loc>http://www.wecef.com/categories/%E5%90%8C%E5%9F%8E/</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.wecef.com/categories/%E5%90%8C%E5%9F%8E%E7%BA%A6%E7%88%B1/</loc>
-    <lastmod>2022-06-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.wecef.com/categories/%E5%85%B6%E5%AE%83/</loc>
     <lastmod>2022-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
